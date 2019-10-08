@@ -1,0 +1,2 @@
+# PredictionIO-Acquired-by-Apache-
+PredictionIO is an open source machine learning server for Data Scientist to create predictive features, such as personalization, recommendation and content discovery. PredictionIO enables developers and Scientist to build smarter apps. Developers can add predictive features to their web or mobile applications easily through a simple set of APIs. PredictionIO is full machine learning stack, bundled with Apache Spark, MLlib, HBase, Spray and Elasticsearch, which simplifies and accelerates scalable machine learning infrastructure management.
